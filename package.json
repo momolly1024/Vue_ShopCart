@@ -12,6 +12,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@vue/cli": "^4.4.6",
     "bootstrap-vue": "^2.1.0",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
@@ -46,5 +47,17 @@
     "stylus-loader": "^3.0.2",
     "vue-cli-plugin-bootstrap-vue": "~0.6.0",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "使用bootstrapVue、Vue-cli、Vue-router製作簡易購物車",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momolly1024/Vue_ShopCart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momolly1024/Vue_ShopCart/issues"
+  },
+  "homepage": "https://github.com/momolly1024/Vue_ShopCart#readme"
 }
